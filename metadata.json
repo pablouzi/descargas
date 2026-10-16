@@ -1,0 +1,6 @@
+{
+  "name": "InstaSave - Descargador de Videos de Instagram",
+  "description": "Descarga videos, Reels e historias de Instagram en alta definición (HD) y formato MP4 de forma rápida, gratuita y sin marcas de agua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
